@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/love-shari/static/css/main.b3ce432c.css",
-    "main.js": "/love-shari/static/js/main.8d71fed6.js",
+    "main.js": "/love-shari/static/js/main.cac0239d.js",
     "static/js/453.956358ad.chunk.js": "/love-shari/static/js/453.956358ad.chunk.js",
     "index.html": "/love-shari/index.html",
     "main.b3ce432c.css.map": "/love-shari/static/css/main.b3ce432c.css.map",
-    "main.8d71fed6.js.map": "/love-shari/static/js/main.8d71fed6.js.map",
+    "main.cac0239d.js.map": "/love-shari/static/js/main.cac0239d.js.map",
     "453.956358ad.chunk.js.map": "/love-shari/static/js/453.956358ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3ce432c.css",
-    "static/js/main.8d71fed6.js"
+    "static/js/main.cac0239d.js"
   ]
 }
