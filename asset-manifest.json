@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/love-shari/static/css/main.f855e6bc.css",
+    "main.js": "/love-shari/static/js/main.112aa758.js",
+    "static/js/453.956358ad.chunk.js": "/love-shari/static/js/453.956358ad.chunk.js",
+    "static/media/logo.svg": "/love-shari/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/love-shari/index.html",
+    "main.f855e6bc.css.map": "/love-shari/static/css/main.f855e6bc.css.map",
+    "main.112aa758.js.map": "/love-shari/static/js/main.112aa758.js.map",
+    "453.956358ad.chunk.js.map": "/love-shari/static/js/453.956358ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.112aa758.js"
+  ]
+}
