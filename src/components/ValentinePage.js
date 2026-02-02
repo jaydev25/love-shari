@@ -29,12 +29,12 @@ function ValentinePage() {
     
     try {
       // Send email using mailto link
-      const mailtoLink = `mailto:${decodedMyEmail}?subject=${encodeURIComponent(decodedWifeName + ' said YES!')}&body=${encodeURIComponent(`Great news!\n\n${decodedWifeName} has agreed to be your Valentine!\n\nHer email: ${decodedWifeEmail}\n\nYou are the luckiest person alive! 💕`)}`;
+    //   const mailtoLink = `mailto:${decodedMyEmail}?subject=${encodeURIComponent(decodedWifeName + ' said YES!')}&body=${encodeURIComponent(`Great news!\n\n${decodedWifeName} has agreed to be your Valentine!\n\nHer email: ${decodedWifeEmail}\n\nYou are the luckiest person alive! 💕`)}`;
       
       // Create a temporary link and click it
-      const link = document.createElement('a');
-      link.href = mailtoLink;
-      link.click();
+    //   const link = document.createElement('a');
+    //   link.href = mailtoLink;
+    //   link.click();
 
       setAnswered(true);
     } catch (error) {
